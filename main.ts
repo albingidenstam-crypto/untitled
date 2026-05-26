@@ -47,6 +47,6 @@ null,
 true
 )
 mp.moveWithButtons(mp.playerSelector(mp.PlayerNumber.One))
-game.showLongText("", DialogLayout.Bottom)
+game.showLongText(11 / 55, DialogLayout.Bottom)
 aaaaa += 1
 aaaaa += 2
